@@ -1,0 +1,123 @@
+# reviews unfiltered shape
+(129971, 14)
+
+# reviews cleaned shape
+(96479, 14)
+
+useful reviews info
+# Country value Counts
+US                        54504
+France                    22093
+Italy                     19540
+Spain                      6645
+Portugal                   5691
+Chile                      4472
+Argentina                  3800
+Austria                    3345
+Australia                  2329
+Germany                    2165
+New Zealand                1419
+South Africa               1401
+Israel                      505
+Greece                      466
+Canada                      257
+Hungary                     146
+Bulgaria                    141
+Romania                     120
+Uruguay                     109
+Turkey                       90
+Slovenia                     87
+Georgia                      86
+England                      74
+Croatia                      73
+Mexico                       70
+Moldova                      59
+Brazil                       52
+Lebanon                      35
+Morocco                      28
+Peru                         16
+Ukraine                      14
+Serbia                       12
+Czech Republic               12
+Macedonia                    12
+Cyprus                       11
+India                         9
+Switzerland                   7
+Luxembourg                    6
+Bosnia and Herzegovina        2
+Armenia                       2
+Slovakia                      1
+China                         1
+Egypt                         1
+
+# describe points 
+count    129971.000000
+mean         88.447138
+std           3.039730
+min          80.000000
+25%          86.000000
+50%          88.000000
+75%          91.000000
+max         100.000000
+Name: points, dtype: float64
+
+# describe price
+count    120975.000000
+mean         35.363389
+std          41.022218
+min           4.000000
+25%          17.000000
+50%          25.000000
+75%          42.000000
+max        3300.000000
+Name: price, dtype: float64
+
+top varieties
+['Pinot Noir',
+ 'Chardonnay',
+ 'Red Blend',
+ 'Cabernet Sauvignon',
+ 'Bordeaux-style Red Blend',
+ 'Riesling',
+ 'Sauvignon Blanc',
+ 'Syrah',
+ 'Rosé',
+ 'Malbec',
+ 'Portuguese Red',
+ 'Merlot',
+ 'Sangiovese',
+ 'Nebbiolo',
+ 'Tempranillo',
+ 'White Blend',
+ 'Sparkling Blend',
+ 'Zinfandel',
+ 'Pinot Gris',
+ 'Rhône-style Red Blend',
+ 'Grüner Veltliner',
+ 'Champagne Blend',
+ 'Cabernet Franc',
+ 'Portuguese White',
+ 'Gewürztraminer',
+ 'Gamay',
+ 'Viognier',
+ 'Shiraz',
+ 'Bordeaux-style White Blend',
+ 'Tempranillo Blend',
+ 'Pinot Grigio',
+ 'Carmenère',
+ 'Grenache',
+ 'Chenin Blanc',
+ 'Petite Sirah',
+ 'Port',
+ 'Albariño',
+ 'Barbera',
+ 'Rhône-style White Blend',
+ 'Pinot Blanc',
+ 'Glera',
+ 'Garnacha',
+ 'Verdejo',
+ 'Torrontés',
+ 'Melon',
+ 'Petit Verdot',
+ 'Blaufränkisch',
+ 'Sauvignon']
