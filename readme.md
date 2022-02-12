@@ -1,7 +1,7 @@
 ## The Search for Value based on Wine Spectator reviews
 
 ### Goals
-+ Using the kaggle dataset [Zynicide Wine Reviews]https://www.kaggle.com/zynicide/wine-reviews  
++ Using the kaggle dataset [Zynicide Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
 + Broad Stroke data discovery
 + Search for bias among reviewers
 + Look for data or trend anomalies and explore
