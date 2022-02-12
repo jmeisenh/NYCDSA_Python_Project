@@ -1,7 +1,7 @@
 ## The Search for Value based on Wine Spectator reviews
 
 ### Goals
-+ Using the kaggle dataset [Zynicide Wine Reviews]https://www.kaggle.com/zynicide/wine-reviews  
++ Using the kaggle dataset [Zynicide Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
 + Broad Stroke data discovery
 + Search for bias among reviewers
 + Look for data or trend anomalies and explore
@@ -21,6 +21,6 @@ performing simple Dataframe manipulation to get basic parameters
 
 + People like, pictures...here are a few
 
-<imgage src="https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/country_bucket_distribution.png">
+![](https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/country_bucket_distribution.png)
 
-<imgage src="https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/top5_countries_vs_score.png">
+![](https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/top5_countries_vs_score.png)
