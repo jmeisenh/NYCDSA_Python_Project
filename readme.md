@@ -21,6 +21,6 @@ performing simple Dataframe manipulation to get basic parameters
 
 + People like, pictures...here are a few
 
-![Graph of 5 Most Reviwed Countries and Wine Ratings](C:\Users\jmeis\NYC_DSA\python_project\plotly_shots\top5_countries_vs_score.png)
+<imgage src="https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/country_bucket_distribution.png">
 
-![Graph of score distribution in the 5 most reviewed countries](C:\Users\jmeis\NYC_DSA\python_project\plotly_shots\country_bucket_distribution.png)
+<imgage src="https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/top5_countries_vs_score.png">
