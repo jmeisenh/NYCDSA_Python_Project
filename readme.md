@@ -27,5 +27,5 @@ performing simple Dataframe manipulation to get basic parameters
 
 ![](https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/goUSA.png)
 
-![]https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/value.png
+![](https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/value.png)
 
