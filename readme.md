@@ -19,11 +19,13 @@ performing simple Dataframe manipulation to get basic parameters
 
 ### Progress
 
-+ People like, pictures...here are a few
++ People like pictures...here are a few
 
 ![](https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/country_bucket_distribution.png)
 
 ![](https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/top5_countries_vs_score.png)
 
 ![](https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/goUSA.png)
+
+![]https://github.com/jmeisenh/NYCDSA_Python_Project/blob/main/plotly_shots/value.png
 
