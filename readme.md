@@ -10,9 +10,9 @@ prices for different types of wine pairings
 
 
 ### Where's the Beef?
-+ Most of the work now is being done in the 'scratchspace' notebook.
-Here is where I am creating a narrative of my data discovery to be used for a
-final presentation
++ Presentation slides has been exported to a pdf 'Analyzing 160,000 Wine Spectator Reviews'
++ The 'scratch_s[ace' notebook is all of my code. I tried to created a narrative to guide anyone interested in my process of creating this project and has been exported as html for easier viewing.
++ The notebook contains a lot of plotly graphs making it a little memory intensive, be patient. It will load
 + The txt file contains useful parameters and lists so I don't have to keep
 performing simple Dataframe manipulation to get basic parameters
 
